@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Safelist red + blue colors manually for test */
+@source inline("text-red-500 text-blue-500");
