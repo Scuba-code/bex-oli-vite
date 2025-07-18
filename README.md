@@ -87,7 +87,9 @@ Absolutely, Oli. Based on everything you've told me so far, here is a **detailed
   * Places you've dived
   * Places you're going next
   * Places with career opportunities
-* Use **Google My Maps** iframe embed for now
+* Custom **interactive map built with React Leaflet**
+* Click anywhere to add a pin with a title and description
+* Remove pins or edit their info directly from the popup
 * Later: optional filters (Instructor jobs / Conservation / Bex-only roles)
 
 ---
