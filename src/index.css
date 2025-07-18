@@ -2,8 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Safelist red + blue colors manually for test */
-@source inline("text-red-500 text-blue-500");
 /* PurgeCSS will automatically detect Tailwind classes used in React */
 
 /* Temporary color utilities due to Tailwind plugin issues */
