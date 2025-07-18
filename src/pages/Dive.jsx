@@ -2,7 +2,7 @@ export default function Dive() {
   return (
     <div className="min-h-screen bg-white text-gray-800 py-12 px-6">
       <header className="text-center mb-10">
-        <h1 className="text-4xl font-bold text-blue-700">Dive Adventures</h1>
+        <h1 className="text-4xl font-bold text-sea-dark">Dive Adventures</h1>
         <p className="mt-4 text-lg text-gray-600">
           Explore our best dives, breathtaking underwater photos, and marine encounters.
         </p>
