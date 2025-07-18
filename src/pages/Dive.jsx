@@ -18,16 +18,16 @@ export default function Dive() {
 
         <section>
           <h2 className="text-2xl font-semibold text-gray-700">🐢 Great Barrier Reef, Australia</h2>
-          <p className="text-gray-600 mt-2">
-            We've led dives around Hastings Reef and Flynn Reef — unforgettable moments with turtles and rays!
-          </p>
+            <p className="text-gray-600 mt-2">
+              We&apos;ve led dives around Hastings Reef and Flynn Reef — unforgettable moments with turtles and rays!
+            </p>
         </section>
 
         <section>
           <h2 className="text-2xl font-semibold text-gray-700">📷 Photo Gallery (Coming Soon)</h2>
-          <p className="text-gray-500 mt-2 italic">
-            We'll be adding an underwater gallery from our Olympus TG-7 setup.
-          </p>
+            <p className="text-gray-500 mt-2 italic">
+              We&apos;ll be adding an underwater gallery from our Olympus TG-7 setup.
+            </p>
         </section>
       </main>
     </div>
