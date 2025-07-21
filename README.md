@@ -22,6 +22,13 @@ Absolutely, Oli. Based on everything you've told me so far, here is a **detailed
 * Code versioned on **GitHub**
 * Live server running locally via `vite`
 
+### Development Setup
+
+```bash
+pnpm install
+pnpm dev
+```
+
 ---
 
 ### 🔗 **Discreet Link to Service Site**
@@ -121,10 +128,10 @@ Absolutely, Oli. Based on everything you've told me so far, here is a **detailed
 * White background, **turquoise/blue/sea-themed highlights**
 * Responsive (mobile + desktop)
 
-### ⚠️ Color Note
+### Color Note
 
-* Tailwind colors **not rendering yet** — to be fixed later
-* All layout and spacing works; we’ll integrate color once Tailwind’s config is repaired
+Tailwind is now fully configured. The site uses a sea-themed palette with custom
+`sea` colors for highlights.
 
 ---
 
