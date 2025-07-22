@@ -16,6 +16,19 @@ export default function Home() {
 
       <main className="text-center mt-16">
         <p className="text-sm text-gray-500">&copy; {new Date().getFullYear()} Bex &amp; Oli. All rights reserved.</p>
+afn1lr-codex/fill-homepage-relevant-information
+
+        <p className="text-sm mt-1 italic text-gray-400">
+          (Psst… check out <a
+            href="https://oliverscubadiving.com"
+            className="text-sea hover:underline"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Oliver’s scuba site
+          </a> for training &amp; courses)
+        </p>
+ main
       </main>
     </div>
   );
